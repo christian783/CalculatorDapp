@@ -1,6 +1,6 @@
 # CalculatorDapp
 
-A futuristic blockchain-powered calculator built with **Truffle**, **Ganache**, and **Angular 19**. Perform basic arithmetic (add, subtract, multiply, divide) on the Ethereum blockchain with a sleek, neon-styled frontend. Deployed locally via Ganache and styled with Bootstrap, this Dapp combines smart contract simplicity with a 🔥 user interface.
+A blockchain-powered calculator built with **Truffle**, **Ganache**, and **Angular 19**. Perform basic arithmetic (add, subtract, multiply, divide) on the Ethereum blockchain with a sleek, neon-styled frontend. Deployed locally via Ganache and styled with Bootstrap, this Dapp combines smart contract simplicity with a 🔥 user interface.
 
 ## Features
 - **Smart Contract**: A Solidity `Calculator` contract with four operations.
