@@ -131,5 +131,5 @@ MIT License—do what you want with it!
 
 ---
 
-**Built with 💻 and a touch of blockchain magic by [Your Name]. Enjoy calculating in style!**
+**Built with 💻 and a touch of blockchain magic by Christian. Enjoy calculating in style!**
 
